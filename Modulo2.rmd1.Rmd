@@ -2,7 +2,9 @@
 title: "Mi primer doc Markdwn"
 author: "Manel Gallén"
 date: "4 de setembre de 2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
