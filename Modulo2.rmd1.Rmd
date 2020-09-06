@@ -3,6 +3,7 @@ title: "Mi primer doc Markdwn"
 author: "Manel Gallén"
 date: "4 de setembre de 2020"
 output:
+  word_document: default
   pdf_document: default
   html_document: default
 ---
@@ -106,3 +107,6 @@ Here is an example of code in a blockquote:
 
 >     2+2
 >     mean(c(1,2,3,4,5))
+
+## Insertar ecuació
+$$ Y = \beta_0 + \beta_1x $$
